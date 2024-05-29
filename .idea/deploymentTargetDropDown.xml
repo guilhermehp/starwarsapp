@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="Tests in 'com.example.starwarsapp.tests'">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\guilh\.android\avd\Small_Phone_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-29T08:27:51.144834200Z" />
+        </State>
+      </entry>
+      <entry key="Tests in 'com.example.starwarsapp.tests.compose'">
+        <State />
+      </entry>
+      <entry key="VehiclesDetailsViewModelTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="test_that_app_basic_navigation_flow_works()">
+        <State />
+      </entry>
+      <entry key="test_that_favorites_has_items()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
